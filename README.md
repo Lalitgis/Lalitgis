@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@agri_lalit" target="blank"><img src="https://img.shields.io/twitter/follow/@agri_lalit?logo=twitter&style=for-the-badge" alt="agri_lalit" /></a> </p>
 
-- 🔭 I’m currently working on **Estimating NPP of rangelands**
+- 🔭 I’m currently working on **Biomass estimation using Multispectral UAV images**
 
 - 🌱 I’m currently learning **Python & QGIS**
 
