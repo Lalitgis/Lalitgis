@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Biomass estimation using Multispectral UAV images**
 
-- 🌱 I’m currently learning **Python & QGIS**
+- 🌱 I’m currently learning **OpenCV, GeoAI for Object Detection**
 
-- 👯 I’m looking to collaborate on **Agriculture & Spatial data analysis**
+- 👯 I’m looking to collaborate on **Agriculture & Spatial Research**
 
-- 💬 Ask me about **Agriculture & GIS**
+- 💬 Ask me about **Agriculture, Data Analysis, Remote Sensing & GIS**
 
 - 📫 How to reach me **lalitiaas@gmail.com**
 
