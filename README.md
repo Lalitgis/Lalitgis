@@ -12,6 +12,8 @@
 
 - 👯 I’m looking to collaborate on **Agriculture & Spatial Research**
 
+- QGIS Pluings: "SmartCVS Converter", "KML-to-KMZ Coverter", 'CropSense"
+
 - 💬 Ask me about **Agriculture, Data Analysis, Remote Sensing & GIS**
 
 - 📫 How to reach me **lalitiaas@gmail.com**
