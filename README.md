@@ -95,7 +95,7 @@ My work sits at the intersection of **Geospatial Science, Machine Learning, and 
 <p align="center">
 <a href="https://twitter.com/agri_lalit"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
 <a href="https://www.linkedin.com/in/lalitbc/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://www.kaggle.com/lalitbc"><img src="https://skillicons.dev/icons?i=kaggle" height="40"/></a>
+<a href="https://www.kaggle.com/lalitbc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40"/></a>
 <a href="https://stackoverflow.com/users/lalit bc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="40"/></a>
 </p>
 
