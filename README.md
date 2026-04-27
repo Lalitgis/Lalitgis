@@ -33,11 +33,17 @@ My work sits at the intersection of **Geospatial Science, Machine Learning, and 
 - **[hovR](https://github.com/Lalitgis/hovR)**  
   Spatial & habitat visualization and analysis toolkit for ecological and geospatial data.
 
-- **[geodetect](https://github.com/Lalitgis/geodetect)**  
+- **[geoDetect](https://github.com/Lalitgis/geoDetect)**  
   Deep learning framework for geospatial object detection using raster data.
 
-- **[shinyLabel](https://github.com/Lalitgis/shinyLabel)**  
+- **[ShinyLabel](https://github.com/Lalitgis/ShinyLabel)**  
   Interactive labeling tool for image annotation for the YOLO workflow in R using Shiny.
+
+- **[yolor](https://github.com/Lalitgis/yolor)**
+  R based package to work with object detection in R this is the alternative of YOLO in Python.
+
+- **[ShinyLabelR](https://github.com/Lalitgis/ShinyLabelR)**
+  A shiny-app for data annotation and seamless integration with the YOLO-R package.
 
 ---
 
