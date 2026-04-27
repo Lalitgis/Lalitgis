@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lalit BC</h1>
 
 <h3 align="center">
-Geospatial Researcher | GeoAI & Computer Vision Enthusiast| UAV based HTP 
+Geospatial Researcher | GeoAI & Computer Vision Enthusiast | UAV based HTP
 </h3>
 
 <p align="center">
@@ -11,18 +11,11 @@ Geospatial Researcher | GeoAI & Computer Vision Enthusiast| UAV based HTP
 
 ---
 
-##  About Me
+## About Me
 
-I am the founder of **Map Mentors**, a platform dedicated to making geospatial and data science learning more accessible. I am currently a graduate student in the USA, building expertise in spatial data science, GeoAI, Crop breeding, and remote sensing, with a strong focus on real-world agricultural and environmental applications.
+I am the co-founder of **Map Mentors**, a platform dedicated to making geospatial and data science learning more accessible. I am currently a graduate student in the USA, building expertise in spatial data science, GeoAI, Crop breeding, and remote sensing, with a strong focus on real-world agricultural and environmental applications.
 
 My work sits at the intersection of **Geospatial Science, Machine Learning, and Agriculture**, where I focus on transforming Earth observation data into meaningful and actionable insights.
-
-- Building AI systems for **remote sensing & UAV-based biomass estimation**
-- Exploring **GeoAI, Computer Vision, and Deep Learning for Earth observation**
-- Passionate about **precision agriculture and sustainable farming systems**
-- Developing tools and workflows for **spatial data analysis and modeling**
-- Open to collaboration in **GeoAI, spatial analytics, and agri-tech innovation**
-- Constantly learning, building, and contributing to open geospatial tools
 
 ---
 
@@ -39,11 +32,11 @@ My work sits at the intersection of **Geospatial Science, Machine Learning, and 
 - **[ShinyLabel](https://github.com/Lalitgis/ShinyLabel)**  
   Interactive labeling tool for image annotation for the YOLO workflow in R using Shiny.
 
-- **[yolor](https://github.com/Lalitgis/yolor)**
-  R based package to work with object detection in R this is the alternative of YOLO in Python.
+- **[yolor](https://github.com/Lalitgis/yolor)**  
+  R based package to work with object detection in R — an alternative to YOLO in Python.
 
-- **[ShinyLabelR](https://github.com/Lalitgis/ShinyLabelR)**
-  A shiny-app for data annotation and seamless integration with the YOLO-R package.
+- **[ShinyLabelR](https://github.com/Lalitgis/ShinyLabelR)**  
+  A Shiny app for data annotation and seamless integration with the YOLO-R package.
 
 ---
 
@@ -63,49 +56,69 @@ My work sits at the intersection of **Geospatial Science, Machine Learning, and 
   Lightweight tool for converting KML/KMZ files into optimized geopackage and shapefile formats.
 
 - **[CropSense](https://plugins.qgis.org/plugins/CropSense/)**  
-  Plugin for agricultural monitoring and 22+ vegetation indices calculation in single click in QGIS.
-
----
-
-## Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,r,git,linux,mysql,html,css" />
-</p>
+  Plugin for agricultural monitoring and 22+ vegetation indices calculation in a single click in QGIS.
 
 ---
 
 ## Research & Focus Areas
 
 - Remote Sensing & Earth Observation
-- UAV / Drone Image Analysis (RGB, Multispectral, Hyperspectral)
-- GeoAI & Deep Learning for Spatial Data
-- Agricultural Yield & Biomass Estimation
-- Spatial Statistics & Crop Modeling
-- Genomic + Spatial Data Integration (GWAS)
-- Computer Vision and Deep Learning in Crop and Animal Sciences
+- UAV / Drone Image Analysis (RGB, Multispectral, Hyperspectral & LiDAR)
+- GeoAI & Computer Vision in Agriculture
 
 ---
 
-##  Featured Work
-
-- Biomass estimation using multispectral UAV imagery  
-- Object detection models for geospatial raster data  
-- Spatial labeling tools for training AI datasets  
-- Experimental GWAS + spatial data integration workflows  
-
----
-
-## 🌐 Connect With Me
+## Languages, Platforms & Ecosystems
 
 <p align="center">
-<a href="https://twitter.com/agri_lalit"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-<a href="https://www.linkedin.com/in/lalitbc/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://www.kaggle.com/lalitbc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40"/></a>
-<a href="https://stackoverflow.com/users/lalit bc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=r" height="45" title="R"/>
+  <img src="https://skillicons.dev/icons?i=rstudio" height="45" title="RStudio"/>
+  <img src="https://skillicons.dev/icons?i=python" height="45" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" title="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=jupyter" height="45" title="Jupyter Notebook"/>
+  <img src="https://skillicons.dev/icons?i=git" height="45" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="45" title="Shiny"/>
 </p>
 
-**Email:** lalitiaas@gmail.com  
+---
+
+## Tools & Packages
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" height="45" title="QGIS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" height="45" title="ArcGIS Pro"/>
+  <img src="https://earthengine.google.com/static/images/earth-engine-logo.png" height="45" title="Google Earth Engine"/>
+  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_mark_blue.svg" height="45" title="YOLO"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" title="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" title="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="geemap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="45" title="ShinyLabelR / YOLOR"/>
+</p>
+
+---
+
+## Libraries & Collections
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/GDALLogoColor.svg" height="45" title="GDAL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="rasterio"/>
+  <img src="https://geopandas.org/en/stable/_images/geopandas_icon.png" height="45" title="geopandas"/>
+  <img src="https://grass.osgeo.org/images/logos/grassgis_logo_colorlogo_text_whitebg.png" height="45" title="GRASS GIS"/>
+</p>
+
+---
+
+## Workspaces
+
+<p align="center">
+  <a href="https://orcid.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" height="45" title="ORCID"/></a>
+  <a href="https://www.linkedin.com/in/lalitbc/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" title="LinkedIn"/></a>
+  <a href="https://scholar.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height="45" title="Google Scholar"/></a>
+  <a href="https://spectral.app/"><img src="https://avatars.githubusercontent.com/u/97076185?s=200&v=4" height="45" title="Spectral"/></a>
+  <a href="https://step.esa.int/main/toolboxes/snap/"><img src="https://step.esa.int/main/wp-content/uploads/2015/01/snap_logo.png" height="45" title="SNAP"/></a>
+</p>
 
 ---
 
@@ -122,20 +135,6 @@ My work sits at the intersection of **Geospatial Science, Machine Learning, and 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lalitgis&theme=tokyonight" />
 </p>
-
----
-
-## Philosophy
-
-> “Geospatial intelligence is not just about maps — it is about understanding the living system of the Earth.”
-
----
-
-## Currently Building
-
-- AI-powered crop monitoring system using UAV imagery  
-- Scalable GeoAI pipelines for object detection in raster data  
-- Spatial-genomic analysis tools bridging agriculture and AI  
 
 ---
 
