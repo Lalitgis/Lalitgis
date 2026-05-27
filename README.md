@@ -23,6 +23,9 @@ My work sits at the intersection of **Geospatial Science, Machine Learning, and 
 
 ### R Packages (Developed / Maintained)
 
+- **[nepalboundaries](https://github.com/Lalitgis/nepalboundaries)**  
+  An Administrative boundary file for R, provided by Nepal's Survey Department.
+  
 - **[hovR](https://github.com/Lalitgis/hovR)**  
   Spatial & habitat visualization and analysis toolkit for ecological and geospatial data.
 
