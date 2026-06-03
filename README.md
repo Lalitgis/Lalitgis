@@ -132,11 +132,11 @@ My work sits at the intersection of **Geospatial Science, Machine Learning, and 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalitgis&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lalitgis&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitgis&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalitgis&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
