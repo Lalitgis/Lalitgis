@@ -77,14 +77,15 @@ My work sits at the intersection of **Geospatial Science, Machine Learning, and 
 ## Languages, Platforms & Ecosystems
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=r" height="45" title="R"/>
-  <img src="https://skillicons.dev/icons?i=rstudio" height="45" title="RStudio"/>
+  <img src="https://skillicons.dev/icons?i=html" height="45" title="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" height="45" title="CSS"/>
+  <img src="https://skillicons.dev/icons?i=js" height="45" title="JS"/>
   <img src="https://skillicons.dev/icons?i=python" height="45" title="Python"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="45" title="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=jupyter" height="45" title="Jupyter Notebook"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" title="PostgreSQL"/>
   <img src="https://skillicons.dev/icons?i=git" height="45" title="Git"/>
   <img src="https://skillicons.dev/icons?i=github" height="45" title="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=notion" height="45" title="Notion"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="45" title="Shiny"/>
 </p>
 
