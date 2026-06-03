@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lalit BC</h1>
 
 <h3 align="center">
-Geospatial Researcher | GeoAI & Computer Vision Enthusiast | UAV-based HTP
+Geospatial Researcher | GeoAI & Computer Vision Enthusiast | UAV-based HTP | Crop Phenotyping for Genomics
 </h3>
 
 <p align="center">
@@ -15,7 +15,7 @@ Geospatial Researcher | GeoAI & Computer Vision Enthusiast | UAV-based HTP
 
 I am the co-founder of [**Map Mentors**](www.mapmentors.com), and [**AIR Lab**](https://airlabnep.github.io/airlab/), a platform dedicated to making geospatial and data science learning more accessible. I am currently a graduate student in the USA, building expertise in spatial data science, GeoAI, Crop breeding, and remote sensing, with a strong focus on real-world agricultural and environmental applications.
 
-My work sits at the intersection of **Geospatial Science, Machine Learning, and Agriculture**, where I focus on transforming Earth observation data into meaningful and actionable insights.
+My work sits at the intersection of **Geospatial Science, Machine Learning, and Agriculture**, where I focus on transforming Earth observation data into meaningful and actionable insights. Find more about [**Me**](https://portfolio-seven-lovat-dz9ok8rip8.vercel.app).
 
 ---
 
@@ -45,6 +45,9 @@ My work sits at the intersection of **Geospatial Science, Machine Learning, and 
 
 ### Python Development
 
+- **[dronelytics](https://pypi.org/project/dronelytics/)**  
+  Python-based workflow for the drone orthomosaic analysis in Python.
+  
 - **[pygapit](https://pypi.org/project/pygapit/)** *(under development)*  
   Python-based extension of GAPIT for GWAS with spatial-genomic integration.
 
