@@ -15,7 +15,7 @@ Geospatial Researcher | GeoAI & Computer Vision Enthusiast | UAV-based HTP | Cro
 
 I am the co-founder of [**Map Mentors**](www.mapmentors.com), and [**AIR Lab**](https://airlabnep.github.io/airlab/), a platform dedicated to making geospatial and data science learning more accessible. I am currently a graduate student in the USA, building expertise in spatial data science, GeoAI, Crop breeding, and remote sensing, with a strong focus on real-world agricultural and environmental applications.
 
-My work sits at the intersection of **Geospatial Science, Machine Learning, and Agriculture**, where I focus on transforming Earth observation data into meaningful and actionable insights. Find more about [**Me**](https://portfolio-seven-lovat-dz9ok8rip8.vercel.app).
+My work sits at the intersection of **Geospatial Science, Machine Learning, and Agriculture**, where I focus on transforming Earth observation data into meaningful and actionable insights. Find more about [**Me**](https://portfolio-seven-lovat-dz9ok8rip8.vercel.app). From algorithms to verses—step into my world of poetry [**Read Here**](https://happylalit.blogspot.com/).
 
 ---
 
