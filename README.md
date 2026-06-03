@@ -96,23 +96,23 @@ My work sits at the intersection of **Geospatial Science, Machine Learning, and 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" height="45" title="QGIS"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" height="45" title="ArcGIS Pro"/>
-  <img src="https://earthengine.google.com/static/images/earth-engine-logo.png" height="45" title="Google Earth Engine"/>
-  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_mark_blue.svg" height="45" title="YOLO"/>
+  <img src="logo/ee.png" height="45" title="Google Earth Engine"/>
+  <img src="logo/yolo.png" height="45" title="YOLO"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" title="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" title="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="geemap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="45" title="ShinyLabelR / YOLOR"/>
+  <img src="https://skillicons.dev/icons?i=anaconda" height="45" title="Anaconda"/>
+  <img src="https://skillicons.dev/icons?i=opencv" height="45" title="OpenCV"/>
+  <img src="https://skillicons.dev/icons?i=pycharm" height="45" title="Pycharm"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" height="45" title="skLearn"/>
 </p>
-
----
 
 ## Libraries & Collections
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/GDALLogoColor.svg" height="45" title="GDAL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="rasterio"/>
+  <img src="logo/rasterio.png" height="45" title="rasterio"/>
   <img src="https://geopandas.org/en/stable/_images/geopandas_icon.png" height="45" title="geopandas"/>
-  <img src="https://grass.osgeo.org/images/logos/grassgis_logo_colorlogo_text_whitebg.png" height="45" title="GRASS GIS"/>
+  <img src="logo/grass.svg" height="45" title="GRASS GIS"/>
 </p>
 
 ---
@@ -124,7 +124,7 @@ My work sits at the intersection of **Geospatial Science, Machine Learning, and 
   <a href="https://www.linkedin.com/in/lalitbc/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" title="LinkedIn"/></a>
   <a href="https://scholar.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height="45" title="Google Scholar"/></a>
   <a href="https://spectral.app/"><img src="https://avatars.githubusercontent.com/u/97076185?s=200&v=4" height="45" title="Spectral"/></a>
-  <a href="https://step.esa.int/main/toolboxes/snap/"><img src="https://step.esa.int/main/wp-content/uploads/2015/01/snap_logo.png" height="45" title="SNAP"/></a>
+  <a href="https://step.esa.int/main/toolboxes/snap/"><img src="logo/snap.jpg" height="45" title="SNAP"/></a>
 </p>
 
 ---
