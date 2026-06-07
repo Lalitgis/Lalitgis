@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lalit BC</h1>
 
 <h3 align="center">
-Geospatial Researcher | GeoAI & Computer Vision Enthusiast | UAV-based HTP | Crop Phenotyping for Genomics
+Geospatial Researcher|GeoAI & Computer Vision|UAV-based HTP|Crop Phenotyping for Genomics|
 </h3>
 
 <p align="center">
