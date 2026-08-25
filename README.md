@@ -15,7 +15,7 @@ Precision Ag Researcher | GeoAI & Computer Vision | UAV-based HTP | Crop Phenoty
 
 I am the co-founder of [**Map Mentors**](www.mapmentors.com), and [**AIR Lab**](https://airlabnep.github.io/airlab/), a platform dedicated to making geospatial and data science learning more accessible. I am currently a graduate student in the USA, building expertise in spatial data science, GeoAI, Crop breeding, and remote sensing, with a strong focus on real-world agricultural and environmental applications.
 
-My work sits at the intersection of **Geospatial Science, Machine Learning, and Agriculture**, where I focus on transforming Earth observation data into meaningful and actionable insights. Find more about [**Me**](https://portfolio-seven-lovat-dz9ok8rip8.vercel.app). From algorithms to verses—step into my world of poetry [**Read Here**](https://happylalit.blogspot.com/).
+My work sits at the intersection of **Geospatial Science, Machine Learning, and Agriculture**, where I focus on transforming Earth observation data into meaningful and actionable insights. Find out more about [**Me**](https://portfolio-seven-lovat-dz9ok8rip8.vercel.app). From algorithms to verses—step into my world of poetry [**Read Here**](https://happylalit.blogspot.com/).
 
 ---
 
@@ -36,7 +36,7 @@ My work sits at the intersection of **Geospatial Science, Machine Learning, and 
   Interactive labeling tool for image annotation for the YOLO workflow in R using Shiny.
 
 - **[yolor](https://github.com/Lalitgis/yolor)**  
-  R based package to work with object detection in R — an alternative to YOLO in Python.
+  R-based package to work with object detection in R — an alternative to YOLO in Python.
 
 - **[ShinyLabelR](https://github.com/Lalitgis/ShinyLabelR)**  
   A Shiny app for data annotation and seamless integration with the YOLO-R package.
@@ -44,9 +44,11 @@ My work sits at the intersection of **Geospatial Science, Machine Learning, and 
 ---
 
 ### Python Development
-
+-**[SorGene](https://sorggene.streamlit.app/)
+ Streamlit application for finding the sorghum gene and protein associated with the specific bp of chromosomes
+ 
 - **[dronelytics](https://pypi.org/project/dronelytics/)**  
-  Python-based workflow for the drone orthomosaic analysis in Python.
+  Python-based workflow for drone orthomosaic analysis in Python.
   
 - **[pygapit](https://pypi.org/project/pygapit/)** *(under development)*  
   Python-based extension of GAPIT for GWAS with spatial-genomic integration.
