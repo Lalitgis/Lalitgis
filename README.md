@@ -44,7 +44,7 @@ My work sits at the intersection of **Geospatial Science, Machine Learning, and 
 ---
 
 ### Python Development
--**[SorGene](https://sorggene.streamlit.app/)
+- **[SorGene](https://sorggene.streamlit.app/)**
  Streamlit application for finding the sorghum gene and protein associated with the specific bp of chromosomes
  
 - **[dronelytics](https://pypi.org/project/dronelytics/)**  
